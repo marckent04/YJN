@@ -1,4 +1,5 @@
-<header id="Home" class="parallax-section">
+<!-- Header -->
+    <header id="Home" class="parallax-section">
          <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-shrink">
         <div class="container-fluid">
@@ -10,8 +11,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                 <a class="navbar-brand" href="index.php">
-                    <img src="public/img/log.png" class="img-responsive" style="width: 80px;">
+                 <a class="navbar-brand" href="#page-top">
+                   <img src="public/img/log.png" class="img-responsive" style="width: 80px;">
                 </a>
             </div>
 
@@ -30,17 +31,17 @@
                           </li>
                           <li class="col-sm-2">
                               <ul class="drop">
-                              <li class="dropdown-header"><a href="index.php?action=leadership">Notre leadership</a></li>
+                              <li class="dropdown-header"><a href="index.php?action=Nleadership">Notre leadership</a></li>
                               <li><a href="index.php?action=yc">Yann Cédric LOHORE</a></li>
                               <li><a href="index.php?action=ca">Conseil d'administration</a></li>
-                              <li><a href="#">  Leadership</a></li> 
+                              <li><a href="index.php?action=leadership">Leadership</a></li> 
                               </ul>
                           </li>
                           <li class="col-sm-2">
                              <ul class="drop">
-                              <li class="dropdown-header"><a href="index.php?action=media">Nouvelles &amp; Media</a></li>
+                              <li class="dropdown-header"><a href="">Nouvelles &amp; Media</a></li>
                               <li><a href="index.php?action=cp">Communiqués de presse</a></li>
-                              <li><a href="index.php?action=mediacover">Couverture médiatique</a></li> 
+                              <li><a href="index.php?action=cm">Couverture médiatique</a></li> 
                               </ul>
                           </li>
                           <li class="col-sm-3">
@@ -62,7 +63,7 @@
                         <ul class="dropdown-menu mega-dropdown-menu">
                           <li class="col-sm-4">
                              <ul class="drop">
-                                <li class="dropdown-header"><a href="index.php?action=sja">Stratégie pour la jeunesse africaine</a></li>
+                                <li class="dropdown-header"><a href="index.php?action=sja">Stratégie pour la jeunesse africaines</a></li>
                                 <li class="dropdown-header"><a href="index.php?action=eaj">Emploi et autonomisation des jeunes</a></li>
                                 <li class="dropdown-header"><a href="index.php?action=method">Notre Methode</a></li>
                               </ul>
@@ -70,6 +71,7 @@
                           <li class="col-sm-4">
                              <ul class="drop">
                                 <li><img src="public/img/1.jpg" class="img-responsive"></li>
+                                <li class="dropdown-header"><a href="index.php?action=">Stratégie pour la jeunesse africaines</a></li>
                               </ul>
                           </li>
                           <li class="col-sm-4">
@@ -81,7 +83,7 @@
                        </ul>       
                     </li>
                     <li class="dropdown mega-dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Notre Travail<span class="caret"></span></a>        
+                        <a href="index.php?action=" class="dropdown-toggle" data-toggle="dropdown">Notre Travail<span class="caret"></span></a>        
                         <ul class="dropdown-menu mega-dropdown-menu">
                           <li class="col-sm-3">
                              <ul class="drop">
@@ -123,13 +125,13 @@
                           <li class="col-sm-4">
                             <ul class="drop">
                                 <li><img src="public/img/1.jpg" class="img-responsive"></li>
-                                <li class="dropdown-header"><a href="index.php?action=">Harnessing the Potential of Hospitality <br> and Tourism for Young People’s <br> Employment</a></li>
+                                <li class="dropdown-header"><a href="">Harnessing the Potential of Hospitality <br> and Tourism for Young People’s <br> Employment</a></li>
                               </ul>
                           </li>
                           <li class="col-sm-4">
                               <ul class="drop">
                                 <li><img src="public/img/1.jpg" class="img-responsive"></li>
-                                <li class="dropdown-header"><a href="index.php?action=">Hope, Energy, and Ingenuity: <br> Voices of African Youth</a></li>
+                                <li class="dropdown-header"><a href="">Hope, Energy, and Ingenuity: <br> Voices of African Youth</a></li>
                               </ul>
                           </li>
                        </ul>       
@@ -141,12 +143,12 @@
                 </ul>
                
             </div>
-            <!-- /.navbar-collapse --> 
+            <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
     </nav>
         <div class="container">
-        <div class="header_bg2">
+        <div class="header_bg">
           <div style="background: rgb(0,0,0);"></div>
         </div>
          <div class="intro-text">
@@ -155,5 +157,14 @@
            </div>
            </div>
           </div>
+            
+            
+            
+            <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+	       <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" height="137px" viewBox="4 -85 794 137" preserveAspectRatio="xMidYMax">
+                <path class="curve-base" d="M798,59.5H4v-9.667C4,49.833,206,7.5,401,7.5c212.5,0,397,41.667,397,41.667V59.5z"></path>
+                <path class="curve-inverse" d="M798,59.5C798,59.5,4,59.5,4,59.5C4,59.5,3.866,-47.624,3.866,-47.624C3.866,-47.624,207.00500000000002,7.039999999999999,402.005,7.039999999999999C614.506,7.039999999999999,797.866,-47.624,797.866,-47.624C797.866,-47.624,798,59.5,798,59.5C798,59.5,798,59.5,798,59.5"></path>
+                <desc>Created By Marc</desc><defs></defs>
+	       </svg>
+        
     </header>
- 

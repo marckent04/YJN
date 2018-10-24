@@ -1,15 +1,15 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2 wow animated bounceInLeft">
-			  <img src="img/yan.jpg" class="center">
+			  <img src="public/img/yan.jpg" class="center">
               <h1 class="color_titrs text-center wow fadeInUp" data-wow-delay="0.6s">Yann Cédric LOHORE</h1>
                <p class="presentation">
-                Edward young disait"si l'ennuie nous gagne courons au travail, le remède est infaillible" <br><br>
+                Edward young disait "si l'ennuie nous gagne courons au travail, le remède est infaillible" <br><br>
                 Hélas la jeunesse de notre continent, spécialement celle de notre pays,
                 Si on n'y prend garde périra d'ennui et d'oisiveté, pas par envie mais par contrainte sociale.<br>
                 Pourtant  " l'oisiveté est la mère de tous les vices"  nous l'a appris Grégoire Lacroix dans "on ne meurt pas d'overdose de rêves."
                 Ils sont nombreux ces jeunes qui après les études secondaires abordent le cycle supérieur le cœur Debordant de rêves aussi fou les uns que les autres
-                <b class="text-center">" On ne meurt pas d'overdose de rêves"</b><br>
+                <b class="text-center">"On ne meurt pas d'overdose de rêves"</b><br>
                 Ils ont envie de réussir
                 Envie de se faire une place au soleil
                 Que nenni !!!
