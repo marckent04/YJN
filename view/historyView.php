@@ -16,7 +16,7 @@
                 	6 et 7 Juillet 2018: Tenue de la premiere edition de<strong> Young Job Network</strong> FORUM<br>
                 	20 Octobre 2018 : Signature de convention <strong>YJN- IFG</strong> Executive Education<br>
 
-                </ul><br><br><br><br><br><br><br>
+                
               </p>    
         </div>
 	</div>
